@@ -21,7 +21,3 @@
 ## 📊 GitHub Stats:
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=TugusArtaa&theme=react&hide_border=false" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugusArtaa&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="160" />
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TugusArtaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
