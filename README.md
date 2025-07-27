@@ -4,7 +4,14 @@
 
 ## 💫 About Me
 
-**Hi! I'm Tugus Arta** — a digital creative from Bali. 🤝✨<br>I enjoy crafting visual and interactive experiences through web development, UI/UX design, and graphic design. With a passion for blending aesthetics and usability, I aim to turn ideas into engaging, functional, and user-centered solutions.<br><br>Let’s create something meaningful together!
+**Hi! I'm Tugus Arta** — a fresh graduate in Informatics Management from Politeknik Negeri Bali. 🎓💻  
+I'm passionate about exploring the world of **frontend development**, **UI/UX design**, and **graphic design**.  
+I enjoy turning ideas into simple, functional, and visually appealing digital experiences.
+
+Currently, I’m focusing on building my skills and portfolio while actively learning modern tools and design principles.  
+I'm open to opportunities for **full-time work**, **freelance**, and **collaborative projects** to grow professionally and contribute creatively.
+
+Let’s connect and create something impactful together! ✨
 
 ## 🌐 Socials
 
